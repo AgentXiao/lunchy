@@ -58,4 +58,6 @@ Lunchy was written as part of my project time at [Carbon Five](http://carbonfive
 About
 -----------------
 
-Mike Perham, [@mperham](http://twitter.com/mperham), [mikeperham.com](http://mikeperham.com/)
+Mike Perham, [twitter: @mperham](http://twitter.com/mperham), [mikeperham.com](http://mikeperham.com/)
+Eddie Zaneski, [twitter: @eddiezane](http://twitter.com/eddiezane), [doesnotscale.com](http://doesnotscale.com)
+Mr Rogers, [twitter: @rcode5](http://twitter.com/rcode5), [rcode5.com](http://rcode5.com)
